@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @zayn54
 - 👀 I’m interested in nothing except tech
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on big python projects
-- 📫 How to reach me +254753639079
+- 💞️ I’m looking to collaborate on big python projects like the ML and AI
+- 📫 How to reach me: You now my username....just do what is supposed to be done😁
 - 😄 Pronouns: ...
-- ⚡ Fun fact: That's the fun fact, it's a fun fact
+- ⚡ Fun fact: I don't have a fun fact.
 
 <!---
 zayn54/zayn54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
